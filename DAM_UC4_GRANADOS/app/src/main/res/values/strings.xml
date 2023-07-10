@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DAM_UC4_GRANADOS</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_castle">Castle</string>
+    <string name="title_peru">Peru</string>
+    <string name="title_danger">Danger</string>
 </resources>
